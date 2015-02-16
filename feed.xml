@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Twister</title>
+		<description>a powerful jekyll theme</description>
+		<link>http://mynimi.github.io</link>
+		<atom:link href="http://mynimi.github.io/feed.xml" rel="self" type="application/rss+xml" />
+
+			<item>
+				<title>Standard Post</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quo debitis eos deleniti laudantium quidem, sunt, illum corporis ducimus officia, totam dignissimos libero atque doloremque fugit similique modi dolorem reiciendis consequatur. &lt;br /&gt;
+Praesentium perspiciatis deleniti accusamus veritatis, eos animi hic blanditiis ea repellendus! Quasi libero eligendi ea accusantium, voluptates minus ex, velit natus, rerum sint ducimus, eum aliquam. Placeat quo rem quidem consectetur voluptate dolorem, aspernatur amet aliquid, sunt velit assumenda minus iste modi necessitatibus vero beatae esse perspiciatis illo est deleniti impedit? &lt;br /&gt;
+Aliquam eligendi odit distinctio laboriosam beatae eum commodi nesciunt voluptates consequatur? Quam, fugiat culpa blanditiis minima iusto quos.&lt;/p&gt;
+
+</description>
+
+				<pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/standard/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/standard/</guid>
+			</item>
+
+			<item>
+				<title>YouTube</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Mon, 09 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/youtube/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/youtube/</guid>
+			</item>
+
+			<item>
+				<title>Audio</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Sun, 08 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/audio/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/audio/</guid>
+			</item>
+
+			<item>
+				<title>Image</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Sat, 07 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/img/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/img/</guid>
+			</item>
+
+			<item>
+				<title>Gallery</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Fri, 06 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/gallery/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/gallery/</guid>
+			</item>
+
+			<item>
+				<title>Full Width Post</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Thu, 05 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/standard-full/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/standard-full/</guid>
+			</item>
+
+			<item>
+				<title>YouTube full</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Wed, 04 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/youtube-full/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/youtube-full/</guid>
+			</item>
+
+			<item>
+				<title>Audio Full</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Tue, 03 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/audio-full/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/audio-full/</guid>
+			</item>
+
+			<item>
+				<title>Image Full</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Mon, 02 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/img-full/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/img-full/</guid>
+			</item>
+
+			<item>
+				<title>Gallery Full</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/gallery-full/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/gallery-full/</guid>
+			</item>
+
+			<item>
+				<title>Vimeo</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Sat, 31 Jan 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/vimeo/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/vimeo/</guid>
+			</item>
+
+	</channel>
+</rss>
