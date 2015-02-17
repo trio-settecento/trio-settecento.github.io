@@ -7,6 +7,19 @@
 		<atom:link href="http://mynimi.github.io/feed.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>Lightbox</title>
+
+
+					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae accusamus quisquam repellendus reiciendis rem, fuga rerum ratione, cumque quaerat ut impedit mollitia repudiandae quas sit molestias, soluta quasi asperiores eligendi? Quidem id praesentium impedit, a, in consequatur. Numquam architecto tempora accusamus sed harum voluptatum, optio unde, quisquam nobis possimus error tenetur ipsa atque eos doloribus, labore reiciendis voluptatibus blanditiis? Natus minus iure cupiditate sequi, tenetur recusandae similique corrupti quaerat incidunt adipisci facilis voluptatem sed fuga molestiae dolore, sapiente eos, perferendis!&lt;/p&gt;
+
+</description>
+
+				<pubDate>Tue, 17 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://mynimi.github.io/gallery_lightbox/</link>
+				<guid isPermaLink="true">http://mynimi.github.io/gallery_lightbox/</guid>
+			</item>
+
+			<item>
 				<title>Standard Post</title>
 
 
