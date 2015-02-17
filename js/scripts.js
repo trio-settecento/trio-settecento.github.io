@@ -41,7 +41,8 @@ $(document).ready(function() {
     $(".switch span").click(function(){
         var id = $(this).attr("id");
 
-        $("#switch_style").attr("href", "/css/" + id + ".css");
+        // adjust link here
+        $("#switch_style").attr("href", "/jekylltest/css/" + id + ".css");
     });
 });
 
