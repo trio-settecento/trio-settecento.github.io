@@ -1,7 +1,7 @@
 name: Trio Settecento
 description:
-url: triosettecento.com
-baseurl: #place folder name if site is served in subfolder
+url: trio-settecento.github.io
+baseurl: trio-settecento.github.io
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
