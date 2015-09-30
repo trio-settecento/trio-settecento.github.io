@@ -28,7 +28,9 @@ For more information, please visit [rachelbartonpine.com](http://www.rachelbarto
 
 John Mark Rozendaal specializes in teaching and performing stringed instrument music from the Baroque and Renaissance eras. As founding Artistic Director of the Chicago Baroque Ensemble, Rozendaal performed and led seven seasons of subscription concerts, educational programs, radio broadcasts, and recordings for the Cedille and Centaur labels.  Rozendaal served as principal ’cellist of The City Musick, and Basically Bach, and has performed both solo and continuo roles with many period instrument ensembles, including the Newberry Consort, Orpheus Band, King's Noyse, Boston Early Music Festival Orchestra, and Soli Deo Gloria's Chicago Bach Project. In addition to his work with Trio Settecento, Rozendaal performs as a member of Brandywine Baroque Ensemble and LeStrange Viols. Rozendaal's viola da gamba playing has been praised as "splendid" (*Chicago Tribune*) and "breathtaking" (*Sun-Times*).
 
-A dedicated teacher, Rozendaal is in demand as a workshop instructor and often joins the faculties of the Viola da Gamba Society of America Conclave, Viols West’s annual workshop, Amherst Early Music, Madison Early Music Festival, and the Music Institute of Chicago's annual Baroque Festival.  Rozendaal teaches private lessons and Viola da Gamba Dojo classes at his studio in Manhattan.  For more about John Mark Rozendaal, please visit [jmrozendaal.com](http://www.jmrozendaal.com).
+A dedicated teacher, Rozendaal is in demand as a workshop instructor and often joins the faculties of the Viola da Gamba Society of America Conclave, Viols West’s annual workshop, Amherst Early Music, Madison Early Music Festival, and the Music Institute of Chicago's annual Baroque Festival.  Rozendaal teaches private lessons and Viola da Gamba Dojo classes at his studio in Manhattan.
+
+For more about John Mark Rozendaal, please visit [jmrozendaal.com](http://www.jmrozendaal.com).
 
 ### David Schrader
 
