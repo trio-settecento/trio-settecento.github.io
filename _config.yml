@@ -1,7 +1,7 @@
 name: Trio Settecento
 description:
 url: trio-settecento.github.io
-baseurl: trio-settecento.github.io
+baseurl:
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
