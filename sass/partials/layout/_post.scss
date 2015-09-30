@@ -95,4 +95,13 @@
         border-style: none;
       }
     }
+
+    .right-img {
+      @media screen and (max-width: 490px) {
+      }
+      @media screen and (min-width: 491px) {
+        float: right;
+        width: 25%;
+      }
+    }
 }
