@@ -96,7 +96,18 @@
       }
     }
 
+    .left-img {
+      margin: 1em 1em 1em 1em;
+      @media screen and (max-width: 490px) {
+      }
+      @media screen and (min-width: 491px) {
+        float: left;
+        width: 25%;
+      }
+    }
+
     .right-img {
+      margin: 1em 1em 1em 1em;
       @media screen and (max-width: 490px) {
       }
       @media screen and (min-width: 491px) {
