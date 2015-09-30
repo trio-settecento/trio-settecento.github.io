@@ -115,4 +115,22 @@
         width: 25%;
       }
     }
+
+    .img-preview {
+      margin: 1em 1em 1em 1em;
+      @media screen and (max-width: 490px) {
+      }
+      @media screen and (min-width: 491px) {
+        float: right;
+      }
+    }
+
+    .centered {
+      margin: 0 auto;
+      display: table;
+    }
+
+    .accommodate {
+      overflow: auto;
+    }
 }
