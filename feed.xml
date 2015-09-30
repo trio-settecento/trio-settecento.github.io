@@ -3,8 +3,8 @@
 	<channel>
 		<title>Trio Settecento</title>
 		<description></description>
-		<link>triosettecento.com</link>
-		<atom:link href="triosettecento.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>trio-settecento.github.io</link>
+		<atom:link href="trio-settecento.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
