@@ -1,9 +1,12 @@
-// grab header height
-var $fullheight = $('.head').innerHeight();
+// grab some heights
+var $fullheight = $('.head').innerHeight(),
+    $shrinkheight = $('shrink').innerHeight(),
+    $menuhheight = $('main_menu').innerHeight(),
+    $minheight = $(window).height() + 10 + $menuhheight + $shrinkheight;
 
 $(document).ready(function() {
-    // add header height as margin to body
-    $('body').css({ 'margin-top': $fullheight });
+    // add header height as margin to body, set min-height so header can shrink without causing problems
+    $('body').css({ 'margin-top': $fullheight, 'min-height': $minheight });
 
     // Back to top link
     $('.backtotop').click(function () {
@@ -42,9 +45,15 @@ $(document).ready(function() {
         var id = $(this).attr("id");
 
         // adjust link here
-        $("#switch_style").attr("href", "/jekylltest/css/" + id + ".css");
+        $("#switch_style").attr("href", "/css/" + id + ".css");
     });
-});
+
+    if($('.articles').find('div.wrapper').length != 0){
+        $('.switch').hide();
+    }else{
+        $('.switch').show();
+    }});
+
 
 $(window).scroll(function() {
     var $shrunkheight = $('.head').innerHeight();
