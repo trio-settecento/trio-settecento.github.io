@@ -140,6 +140,11 @@
 
     table.tabular {
       border-collapse: separate;
-      border-spacing: 1em;
+      td {
+        padding: 1em;
+      }
+      tr:nth-of-type(2n) {
+        background: #fafafa;
+      }
     }
 }
