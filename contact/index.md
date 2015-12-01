@@ -28,7 +28,7 @@ Phone: 818-905-5511 / 323-449-5030<br>
 ## Trio Members
 
 <div>
-<strong>Rachel Barton Pine:</strong> <a>rachelbartonpine@aol.com</a><br>
-<strong>John Mark Rozendaal:</strong> <a>jmrozendaal@earthlink.net</a><br>
-<strong>David Schrader:</strong> <a>dschrader@att.net</a>
+<a href="https://www.rachelbartonpine.com"><strong>Rachel Barton Pine:</strong> rachelbartonpine.com</a><br>
+<a href="http://www.jmrozendaal.com/"><strong>John Mark Rozendaal:</strong> jmrozendaal.com</a><br>
+<a href="http://www.davidschrader.com/"><strong>David Schrader:</strong> davidschrader.com</a>
 </div>
