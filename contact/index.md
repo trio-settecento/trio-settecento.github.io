@@ -7,13 +7,13 @@ title: Contact
 ## Manager
 
 <div>
-<strong>MCM Arts and Entertainment</strong><br>
+<strong>Rile & Gallant Artists</strong><br>
 Tom Gallant, Managing Director<br>
 P.O. Box 825<br>
 Highland, NY 12528<br>
 Phone: 917-645-5383<br>
 <a>tgallant@mcmarts.com</a><br>
-<a>www.mcmarts.com</a>
+<a>http://rilegallant.com/ensembles/trio-settecento/</a>
 </div>
 
 ## Publicity
