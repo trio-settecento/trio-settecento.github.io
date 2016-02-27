@@ -29,8 +29,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+sass:
+  style: :compressed
 relative_permalinks: false
-exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, documentation]
+exclude: [.git, .gitignore, package.json, gruntfile.js, node_modules, README.md, documentation]
 
 # prose.io configurations
 prose:
