@@ -14,6 +14,7 @@ author_default_avatar: /profile-pic.jpg
 twitter: "https://twitter.com/triosettecento"
 facebook: "https://www.facebook.com/triosettecento"
 youtube: "https://www.youtube.com/user/TrioSettecento"
+soundcloud: "https://soundcloud.com/triosettecento"
 
 encoding: utf-8
 defaults:
@@ -29,8 +30,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+sass:
+  style: :compressed
 relative_permalinks: false
-exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, documentation]
+exclude: [.git, .gitignore, package.json, gruntfile.js, node_modules, README.md, documentation]
 
 # prose.io configurations
 prose:
