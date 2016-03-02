@@ -66,6 +66,3 @@ following are examples of Trio Settecento's outreach activities.
   * Radio interviews and performances
   * Television interviews and performances
 
-For more information about Rachel Barton Pine's outreach activities, please click [here](http://industry.rachelbartonpine.com/outreach.php).
-
-For more information about John Mark Rozendaal's viola da gamba classes, please click [here](http://www.jmrozendaal.com/dojo/index.html).
