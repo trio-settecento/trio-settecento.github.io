@@ -1,0 +1,30 @@
+---
+---
+
+.photos
+  display: flex
+  justify-content: space-between
+
+  figure
+    flex:
+      grow: 0
+      shrink: 1
+    padding: 0 2.5%
+    text-align: center
+
+    a
+      border: none
+      display: block
+
+    figcaption
+      font-size: .7em
+      text-align: left
+
+    &:first-child
+      padding-left: 0
+
+    img
+      max-width: 100%
+
+    &:last-child
+      padding-right: 0
