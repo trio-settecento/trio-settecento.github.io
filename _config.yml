@@ -15,6 +15,7 @@ twitter: "https://twitter.com/triosettecento"
 facebook: "https://www.facebook.com/triosettecento"
 youtube: "https://www.youtube.com/user/TrioSettecento"
 soundcloud: "https://soundcloud.com/triosettecento"
+gems: ['jekyll-paginate']
 
 encoding: utf-8
 defaults:
